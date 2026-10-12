@@ -7,6 +7,7 @@
 | App (mainnet) | [trucee.fun](https://trucee.fun) |
 | App (devnet) | [devnet.trucee.fun](https://devnet.trucee.fun) |
 | Docs | [docs.trucee.fun](https://docs.trucee.fun) |
+| SDK | [`npm install @trucee/sdk`](https://www.npmjs.com/package/@trucee/sdk) |
 | X | [@truceefun](https://x.com/truceefun) |
 
 This repository is the overview. The code lives in the repositories listed under [Repositories](#repositories).
