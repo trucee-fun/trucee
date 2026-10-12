@@ -88,7 +88,7 @@ The full journey, and the devnet run that covers graduation, DAMM v2 migration a
 | [trucee-litesvm-diff](https://github.com/trucee-fun/trucee-litesvm-diff) | Test suites that run the real DBC program in LiteSVM, and the differential replay against the Python port |
 | [trucee-docs](https://github.com/trucee-fun/trucee-docs) | The source of [docs.trucee.fun](https://docs.trucee.fun) |
 
-The code repositories are private for now; the reviewers of the Meteora DBC track have read access.
+`trucee-sdk`, `trucee-sim`, `trucee-litesvm-diff`, `trucee-worker` and `trucee-docs` are public. `trucee-programs` and `trucee-app` are private for now; the reviewers of the Meteora DBC track have read access.
 
 ## License
 
